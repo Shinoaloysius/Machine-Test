@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Machine Test</string>
+    <string name="categories">Categories</string>
+    <string name="add_to_cart">cart</string>
+    <string name="iphone">iPhone 7</string>
+    <string name="price">72, 000</string>
+    <string name="_10_0000">10, 0000</string>
+    <string name="no_products_found">noproducts</string>
+    <string name="rupee">₹ %1$d</string>
+</resources>
